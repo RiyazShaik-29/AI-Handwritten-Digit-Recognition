@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.vscode/settings.json
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Local-only files
+users.db
+app_broken_backup.py
+*.lnk
